@@ -1,0 +1,48 @@
+# .NET çıktı klasörleri
+bin/
+obj/
+publish/
+out/
+build/
+
+# VS Code ayarları
+.vscode/
+*.code-workspace
+
+# Visual Studio ayarları
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Kullanıcıya özel dosyalar
+appsettings.Development.json
+secrets.json
+
+# NuGet paketleri
+packages/
+*.nupkg
+
+# Log dosyaları
+logs/
+*.log
+
+# Test sonuçları
+TestResults/
+
+# Dotnet tool manifest
+.dotnet/
+
+# İkon dosyası hariç (istersen ekle)
+# chat.ico
+
+# Yayınlama klasörü
+publish/
+
+# Geçici dosyalar
+*.tmp
+*.temp
+*.cache
+*.pid
+*.seed
