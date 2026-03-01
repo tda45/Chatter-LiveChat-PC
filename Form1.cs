@@ -49,8 +49,8 @@ namespace ChatterLiveChat
         private Color sariRenk = Color.FromArgb(220, 220, 40);        // Sarı (yazıyor için)
 
         // Supabase bilgileri
-        private readonly string supabaseUrl = "https://zsspdxeovynnzrjalvvy.supabase.co";
-        private readonly string supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inpzc3BkeGVvdnlubnpyamFsdnZ5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzIyODU5NzMsImV4cCI6MjA4Nzg2MTk3M30.9ahmXDGGbGNwvcaSEE40tXLb0A5_37UgdwiBWQyiAs8";
+        private readonly string supabaseUrl = "https://KENDİ SUPABASE URLNİ YAZ.supabase.co";
+        private readonly string supabaseKey = "ANON PUBLİC KEYİNİ BURAYA YAZ";
 
         // Yasaklı kelimeler
         private List<string> badWords = new List<string> { 
